@@ -5,9 +5,9 @@ OpenCV Machine Learning samples
 
 ## Support Vector Machines
 
-## Normal Bayes Classifier
-
 ## K-Nearest Neighbors
+
+## K-Means
 
 ## Decision Trees
 
