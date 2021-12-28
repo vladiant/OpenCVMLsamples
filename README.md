@@ -16,6 +16,7 @@ OpenCV Machine Learning samples
 ## Boosting
 
 ## Expectation Maximization
+* [Reference](https://docs.opencv.org/4.2.0/d1/dfb/classcv_1_1ml_1_1EM.html)
 
 ## Normal Bayes Classifier
 
