@@ -11,7 +11,7 @@ OpenCV Machine Learning samples
 
 ## Decision Trees
 
-## Random Trees
+## Random Forest
 
 ## Boosting
 
