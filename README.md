@@ -10,6 +10,7 @@ OpenCV Machine Learning samples
 ## K-Means
 
 ## Decision Trees
+* [Reference](https://docs.opencv.org/4.2.0/d8/d89/classcv_1_1ml_1_1DTrees.html)
 
 ## Random Forest
 
