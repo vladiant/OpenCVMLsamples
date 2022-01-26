@@ -8,6 +8,8 @@ OpenCV Machine Learning samples
 ## K-Nearest Neighbors
 
 ## K-Means
+* [Tutorials](https://docs.opencv.org/4.2.0/d9/d70/tutorial_py_kmeans_index.html)
+* [Reference](https://docs.opencv.org/4.2.0/d5/d38/group__core__cluster.html)
 
 ## Decision Trees
 * [Reference](https://docs.opencv.org/4.2.0/d8/d89/classcv_1_1ml_1_1DTrees.html)
