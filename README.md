@@ -6,6 +6,8 @@ OpenCV Machine Learning samples
 ## Support Vector Machines
 
 ## K-Nearest Neighbors
+* [Tutorials](https://docs.opencv.org/4.2.0/d0/d72/tutorial_py_knn_index.html)
+* [Reference](https://docs.opencv.org/4.2.0/dd/de1/classcv_1_1ml_1_1KNearest.html)
 
 ## K-Means
 * [Tutorials](https://docs.opencv.org/4.2.0/d9/d70/tutorial_py_kmeans_index.html)
