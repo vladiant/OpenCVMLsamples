@@ -2,6 +2,7 @@
 OpenCV Machine Learning samples
 
 ## Logistic Regression
+* [Reference](https://docs.opencv.org/4.2.0/d6/df9/classcv_1_1ml_1_1LogisticRegression.html)
 
 ## Support Vector Machines
 
