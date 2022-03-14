@@ -5,6 +5,9 @@ OpenCV Machine Learning samples
 * [Reference](https://docs.opencv.org/4.2.0/d6/df9/classcv_1_1ml_1_1LogisticRegression.html)
 
 ## Support Vector Machines
+* [Introduction](https://docs.opencv.org/4.2.0/d1/d73/tutorial_introduction_to_svm.html)
+* [Tutorial](https://docs.opencv.org/4.2.0/d0/dcc/tutorial_non_linear_svms.html)
+* [Reference](https://docs.opencv.org/4.2.0/d1/d2d/classcv_1_1ml_1_1SVM.html)
 
 ## K-Nearest Neighbors
 * [Tutorials](https://docs.opencv.org/4.2.0/d0/d72/tutorial_py_knn_index.html)
