@@ -21,6 +21,7 @@ OpenCV Machine Learning samples
 * [Reference](https://docs.opencv.org/4.2.0/d8/d89/classcv_1_1ml_1_1DTrees.html)
 
 ## Random Forest
+* [Reference](https://docs.opencv.org/4.2.0/d0/d65/classcv_1_1ml_1_1RTrees.html)
 
 ## Boosting
 * [Reference](https://docs.opencv.org/4.2.0/d6/d7a/classcv_1_1ml_1_1Boost.html)
