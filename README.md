@@ -30,6 +30,7 @@ OpenCV Machine Learning samples
 * [Reference](https://docs.opencv.org/4.2.0/d1/dfb/classcv_1_1ml_1_1EM.html)
 
 ## Normal Bayes Classifier
+* [Reference](https://docs.opencv.org/4.2.0/d4/d8e/classcv_1_1ml_1_1NormalBayesClassifier.html)
 
 ## Neural Networks
 
